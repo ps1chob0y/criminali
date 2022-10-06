@@ -10,7 +10,8 @@ body {
    backgroung: #CCCCCC
 }
 
-#banner {
+#banner.jpg {
+         main
      
 
 
