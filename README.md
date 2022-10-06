@@ -6,20 +6,34 @@
        <link rel="stylesheet" href="style.css">
        <style>
        
-body{
+body {
    backgroung: #CCCCCC
 }
-          
-p{
+
+#banner {
+     
+
+
+h1 {
   text-aling: center
 }
+     
+p {
+  text-aling: center
+}
+
+#missão {
+    font-size: 20px
            
 em strong {
     color: FF0000;
 }
        <style>
 </head>
+
 <body>      
+     <img id="banner"src="banner.jpg">
+     
        <h1 style="text-aling: center">Criminali</h1>
 
        <p style="font size:20px"> Ya, neste site falarei sobre os mais diversos <strong>crimes horrendos </strong> e perversos!</p>
@@ -28,7 +42,7 @@ em strong {
 
        <p> Sem mais delongas, você entrará em um mundo de crimes perversos!</p>
 
-       <em><strong> informaçâo:</strong> Segundo a sociologia criminal de Emile Durkheim, o crime não é uma doença social, mas um fenômeno inseparável            dela, motivo pelo qual, desde que dentro de uma margem de normalidade demonstrada pela estabilidade das estatísticas, o crime possui até alguns            aspectos positivos para a evolução do grupo social.</em>
+      <p id="missão"><em><strong> informaçâo:</strong> Segundo a sociologia criminal de Emile Durkheim, o crime não é uma doença social, mas um fenômeno inseparável dela, motivo pelo qual, desde que dentro de uma margem de normalidade demonstrada pela estabilidade das estatísticas, o crime possui até alguns aspectos positivos para a evolução do grupo social.</em>
        </p>
    </body>
 </html>
