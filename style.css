@@ -90,19 +90,30 @@ em strong {
    
    = ausenciaF= Máximo#000000#FFFFFF#FF0000
    
-   redyelowblueRGB 0,1,2,3,. . .2550= 
+   redyelowblueRGB 0,1,2,3,. . .255
    
-   ansencia255 = máximo 
+   0= ausência 
+   
+   255 = máximo 
    
    rgb(255,255,255)
    
-   rgb (0,0,255) <style> 
+   rgb (0,0,255) 
    
-   body{ backgroug: #CCCCCC } 
+   <style> 
    
-   p { text-aling: center } 
+   body{
+      
+      backgroug: #CCCCCC 
+   } 
    
-   em strong { color: FF0000
+   p { 
+      text-aling: center
+      } 
    
-   
+   em strong { 
+      
+      color: FF0000 
+         
+   </style> 
    
