@@ -84,11 +84,19 @@ em strong {
    
    binario01numérico 0123456789
    
-   hexedecimal 0123456789ABCDEFRGB
+   hexedecimal 0123456789ABCDEF
    
-   = red green blue#_ _ _ _ _ _0 
+   RGB= red green blue#_ _ _ _ _ _
    
-   = ausenciaF= Máximo#000000#FFFFFF#FF0000
+   0 = ausencia
+   
+   F= Máximo
+   
+   #000000
+   
+   #FFFFF
+   
+   #FF0000
    
    redyelowblueRGB 0,1,2,3,. . .255
    
